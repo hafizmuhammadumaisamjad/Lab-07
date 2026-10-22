@@ -1,5 +1,3 @@
-"""Estimate whether a collection of files will fit on a storage device."""
-
 UNITS = {
 	"B": 1,
 	"KB": 1_000,
