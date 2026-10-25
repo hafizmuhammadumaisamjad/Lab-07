@@ -1,3 +1,7 @@
+
+# Add a GB conversion line to the storage estimator
+
+
 UNITS = {
 	"B": 1,
 	"KB": 1_000,
